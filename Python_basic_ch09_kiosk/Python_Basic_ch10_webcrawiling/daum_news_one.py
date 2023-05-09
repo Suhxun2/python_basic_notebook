@@ -53,3 +53,4 @@ for tag in contents:
     content = content + tag.get_text()
 print(f"뉴스본문: { content}")
 #.
+#.
